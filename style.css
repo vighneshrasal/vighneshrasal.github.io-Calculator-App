@@ -1,0 +1,15 @@
+.bgorange{
+    background-color: rgb(255, 145, 0);
+    box-shadow: 2px 2px 2px black;
+}
+
+.bgblack{
+    background-color: black;
+    color: white;
+}
+
+.calc-name h3{
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 4, 136);
+} 
